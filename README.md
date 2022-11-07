@@ -10,9 +10,9 @@ Esta  pagina web tiene como objetivo aplicar la metodología Atomic Desing crean
 Este repositorio  contiene la rama principal (main) donde se encuentra el código del proyecto en clae y en la rama desarrollador (developer) se encuentra el código del proyecto correspondiente a una empresa prestadora de servicios. 
 
 ## Tecnologias 🚀
-- HTML
-- CSS
-- FIGMA
+- ` HTML
+- `CSS
+- `FIGMA
  
 Prototipo: https://www.figma.com/file/ZIZuMVCGh6cE3UQvTbFsuj/alura-bootstrap?node-id=0%3A1
 
