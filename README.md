@@ -10,7 +10,7 @@ Comenzando 🚀
 
  Este proyecto fue realizado para el curso de arquitectura CSS de Alura LATAM, en cada clase fue desarrollado el código de una sección del proyecto.
  
- Este repositorio  contiene dos Branch, una corresponde al proyecto realizado en clase y la otra corresponde al proyecto que se realizo para reforzar los conocimientos adquiridos. 
+ Este repositorio  contiene dos Branch, una corresponde al proyecto realizado en clase y la otra corresponde al proyecto que  realize para reforzar los conocimientos adquiridos. 
 
-En la rama principal (main) se encuentra el código del proyecto en clae y en la rama desarrollador (developer) se encuentra el código del proyecto para reforzar el conocimiento.
+En la rama principal (main) se encuentra el código del proyecto en clae y en la rama desarrollador (developer) se encuentra el código del proyecto que desarrolle  para reforzar el conocimiento.
 
