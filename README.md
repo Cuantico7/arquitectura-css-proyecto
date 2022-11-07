@@ -22,3 +22,5 @@ Este repositorio  contiene la rama principal `(main)` donde se encuentra el cód
 - `FIGMA`
 
 Prototipo: https://www.figma.com/file/ZIZuMVCGh6cE3UQvTbFsuj/alura-bootstrap?node-id=0%3A1
+
+`Visualizar pagina web:`https://cuantico7.github.io/arquitectura-css-proyecto-Alura/
