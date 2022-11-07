@@ -1,7 +1,5 @@
 <h1 align="center"> Arquitectura CSS  </h1>
 
-Repositorio del Ciclo 3 Diplomado en desarrollo de Software MinTIC 2022
-
 Repositorio del Proyecto del curso de arquitectura de Alura (Oracle One)
 
 ## Descripción del Proyecto
