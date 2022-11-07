@@ -9,7 +9,7 @@ Repositorio del Proyecto del curso de arquitectura de Alura (Oracle One)
 
 ## Descripción del Proyecto
 
-El contenido de este repositorio corresponde al Proyecto del curso de Arquitectura CSS de Alura LATAM
+El contenido de este repositorio corresponde al Proyecto del curso de Arquitectura CSS de Alura LATAM <br>
 Este proyecto consiste en una página web de un sitio de recetas que lleva por nombre Fruta & Fruto construido en el transcurso del curso.
 
 Esta  pagina web tiene como objetivo aplicar la metodología Atomic Desing creando un archivo para cada CSS, manteniendo así nuestros códigos cortos y facilitando el mantenimiento, también utilizamos la metodología BEM para nombrar las clases dentro del proyecto.
