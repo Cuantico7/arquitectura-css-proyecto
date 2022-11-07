@@ -1,6 +1,6 @@
 <h1 align="center"> Arquitectura CSS </h1>
 
-Repositorio del Proyecto del curso de arquitectura de Alura (Oracle One)
+Repositorio del Proyecto del curso de arquitectura de Alura (Oracle One).
 
 
  <p align="left">
